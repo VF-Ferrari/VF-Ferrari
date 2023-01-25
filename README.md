@@ -3,7 +3,7 @@
 
 - 22 Anos
 - Técnico em Eletroeletrônica - SENAI/SP-Shunji Nishimura
-- Física - Universidade Estadual de Maringá - UEM
+- Graduação em Física - Universidade Estadual de Maringá - UEM
 - Mestrando em Física - Universidade Estadual de Maringá - UEM
 - Professor de Física, Eletrônica e Arduino
 - Áreas de Interesse - Física Teórica, Eletromagnetismo Clássico, Física do Estado Sólido, Espectroscopia Óptica, Astrofísica, Eletrônica e Robótica
