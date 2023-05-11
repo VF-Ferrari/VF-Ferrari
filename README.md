@@ -2,10 +2,10 @@
 ### "Da menor partícula a maior galáxia, para tudo existe uma resposta calculável"
 
 - 22 Anos
+- Graduado em Física - Universidade Estadual de Maringá - UEM
+- Mestrando em Física (Astrofísica e Cosmologia) - Universidade Estadual de Maringá - UEM
 - Técnico em Eletroeletrônica - SENAI/SP-Shunji Nishimura
-- Graduação em Física - Universidade Estadual de Maringá - UEM
-- Mestrando em Física - Universidade Estadual de Maringá - UEM
-- Professor de Física, Eletrônica e Arduino
+- Professor de Física, Eletrônica e Programação (Arduino)
 - Áreas de Interesse - Física Teórica, Eletromagnetismo Clássico, Física do Estado Sólido, Espectroscopia Óptica, Astrofísica, Eletrônica e Robótica
 
 
