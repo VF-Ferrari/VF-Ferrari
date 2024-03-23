@@ -1,8 +1,8 @@
 # Vitor Ferrari
 ### "Da menor partícula a maior galáxia, para tudo existe uma resposta calculável"
 
-- 22 Anos
-- Graduado em Física - Universidade Estadual de Maringá - UEM
+- 23 Anos
+- Graduado em Física (Bacharelado e Licenciatura)- Universidade Estadual de Maringá - UEM
 - Mestrando em Física (Astrofísica e Cosmologia) - Universidade Estadual de Maringá - UEM
 - Técnico em Eletroeletrônica - SENAI/SP-Shunji Nishimura
 - Professor de Física, Eletrônica e Programação (Arduino)
