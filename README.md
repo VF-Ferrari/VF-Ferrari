@@ -2,12 +2,18 @@
 ### "Da menor partícula a maior galáxia, para tudo existe uma resposta calculável"
 
 • 25 Anos
+
 • Graduado em Física (Bacharelado e Licenciatura) - Universidade Estadual de Maringá - DFI | UEM
+
 • Mestre em Física (Ensino de Astrofísica e Cosmologia) - Universidade Estadual de Maringá - PCM | UEM
+
 • Doutorando em Física (Ensino de Astronomia e Geofísica) - Universidade Estadual de Maringá PCM | UEM 
+
 • Técnico em Eletroeletrônica - SENAI/SP-Shunji Nishimura
+
 • Professor de Física, Eletrônica e Programação (Arduino)
-• *Áreas de Interesse* - Física Teórica, Astrofísica, Física do Estado Sólido, Espectroscopia Óptica, Eletromagnetismo Clássico, Ensino de Física, Eletrônica, Robótica Física Computacional e Modelagem de Sistemas Físicos via Python, Mathematica, SolidWorks e Ansys. 
+
+• ##Áreas de Interesse - Física Teórica, Astrofísica, Física do Estado Sólido, Espectroscopia Óptica, Eletromagnetismo Clássico, Ensino de Física, Eletrônica, Robótica Física Computacional e Modelagem de Sistemas Físicos via Python, Mathematica, SolidWorks e Ansys. 
 
 
 ## Linguagens de Programação
